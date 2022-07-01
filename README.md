@@ -43,5 +43,3 @@ Estudante universitário de análise e desenvolvimento de sistemas, amante de te
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albino-Marques&layout=compact&langs_count=7&theme=nord"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albino-Marques&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/Albino-Marques/Albino-Marques/blob/output/github-contribution-grid-snake.svg)
