@@ -3,7 +3,7 @@
 ### Sobre
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60" height="60"/>
 Olá, bem vindo ao meu perfil, meu nome é Albino Marques dos Santos, seu anfitrião. Aqui encontrará muita coisa boa ao longo do tempo. Ainda está em desenvolvimento, mas é essa a intenção, desenvolver. 
-Estudante universitário de análise e desenvolvimento de sistemas, amante de tecnologia e curioso extremo deste mundo. Estou constantemente estudando, aprendendo, aperfeiçoando e tentando melhorar o que já fiz. Sou movido por paixão, e o mundo da programação desperta fortemente essa paixão, e eu a deixo me guiar. 
+Tenho 25 anos e sempre tive fascínio pelo mundo da Tecnologia e Computação, desde a primeira vez que tive contato com um console ou um computador, seja jogando Super Mario Bros, vendo memes no Facebook ou hoje programando, sabia que aquilo era pra mim. Iniciei meus estudos informais aos 12 anos e aos 15 comecei a prestar serviços de manutenção de computadores e instrução de informática como estagiário em uma pequena escola de informática na minha cidade, e hoje como técnico de informática empresarial. Comecei a me interessar realmente pela programação este ano, pois possuía somente conhecimentos superficiais sobre, desde então estudo para me tornar cada vez melhor. Em 2022 comecei a cursar Análise e Desenvolvimento de Sistemas essa é minha ocupação atual.
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60" height="60"/>
 
 
