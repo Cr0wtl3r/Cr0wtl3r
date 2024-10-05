@@ -35,6 +35,6 @@ Olá! Seja bem-vindo ao meu perfil. Meu nome é Albino Marques dos Santos e é u
 
 <div>
 <a href="https://github.com/Albino-Marques">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albino-Marques&layout=compact&langs_count=7&theme=nord"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albino-Marques&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr0wtl3r&layout=compact&langs_count=7&theme=nord"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cr0wtl3r&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
