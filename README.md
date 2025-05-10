@@ -1,4 +1,4 @@
-## 👨‍💻 Sobre
+## 👨‍💻 Sobre mim
 
 Olá! Meu nome é **Albino Marques**, sou Analista de TI com mais de 5 anos de experiência em infraestrutura, suporte e desenvolvimento de ferramentas internas. Atualmente, atuo em transição estratégica para a **Cibersegurança Ofensiva**, com foco em **Pentest, Red Team** e automação de testes de segurança.
 
